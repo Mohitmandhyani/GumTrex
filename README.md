@@ -5,8 +5,8 @@ Classifieds can be posted that involve selling, buying, exchanging and we adding
 
   - Clean JavaScript code with good folder structure.,
 - 📄 **Well documented**
-  - I can provide full reference & installation documentation alongside detailed guides through my Youtube Channel Sijeesh Miziha feel free to subscribe 
-  - If You supporting me., then I can also create the full lecture video from the scratch..,you can learn React.js as well as Firebase 
+  - If You supporting me., then I can also create the full lecture video from the scratch..,you can learn React.js as well as Firebase
+    
 - 👅 **Requirements to fork this repo**
    - Intermediate React Developer
    - Basic Understanding of Firebase
